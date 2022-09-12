@@ -5,4 +5,4 @@ draft: false
 title: Test
 uid: 11fd0da6-ef5e-48ba-b544-e3b758ee6499
 ---
-asdsa\( _{aa}_ \)
+asdsa\( _{as}_ \)
