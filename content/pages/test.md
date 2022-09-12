@@ -5,4 +5,4 @@ draft: false
 title: Test
 uid: 11fd0da6-ef5e-48ba-b544-e3b758ee6499
 ---
-This page should be have a working{{% subscript content="subscript" %}}
+{{% resource_link "11fd0da6-ef5e-48ba-b544-e3b758ee6499" "Test" %}} Y\_{n}
